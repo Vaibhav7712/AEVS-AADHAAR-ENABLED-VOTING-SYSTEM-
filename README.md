@@ -8,7 +8,8 @@ WITHDRAW MONEY FROM ANY WHERE IN THE COUNTRY. In the same manner we can cast vot
 Especially those who are out of their constituencies.
 
 PROCESS OF AEVS
-VOTER just have to go to a shop. The shopkeeper will take their AADHAAR number and put it into the 
+
+Voter just have to go to a shop. The shopkeeper will take their AADHAAR number and put it into the 
 app and then he will scan the fingerprint of the voter and put his/ her mobile number. Then a message 
 come to his /her mobile number which will include the codes of different political parties in his 
 constituency ( the code will be different for each voter just like OTP). Thus maintaining Anonymity. The 
