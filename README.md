@@ -28,6 +28,7 @@ constituency)
 shopkeeper nor anyone else can know to whom vote has been cast.
 
 CONCLUSION
+
 AEVS is based on existing AEPS system. Due to which government doesn't have to invest more on 
 infrastructure. Their is no doubt in security because AEPS system is quiet secure. This system is easy to 
 operate and if government want to implement it government can implement it under a year. Due to all 
